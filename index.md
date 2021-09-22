@@ -164,7 +164,7 @@ With Livemark you can use HTML inside Markdown with Bootstrap support. Here is a
 <div class="container">
 <div class="row">
 <div class="col-sm">
-  <div class="markdown">![Package](assets/data-package.png)</div>
+  <div class="livemark-markdown">![Package](assets/data-package.png)</div>
   <div class="text-center">
   <p><strong>Data Package</strong></p>
   <p>A simple container format for describing a coherent collection of data in a single package.</p>
